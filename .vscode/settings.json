@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 15432,
+            "driver": "PostgreSQL",
+            "name": "em-musicc",
+            "database": "em-music",
+            "username": "em-music-user"
+        }
+    ]
+}
